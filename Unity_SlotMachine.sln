@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E844AD38-6DE0-5E93-CD49-DF249A6B92FD}") = "Unity_SlotMachine", "Assembly-CSharp.csproj", "{EBE38FF7-7F4D-049E-E099-EC0AF1A75F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE38FF7-7F4D-049E-E099-EC0AF1A75F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE38FF7-7F4D-049E-E099-EC0AF1A75F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE38FF7-7F4D-049E-E099-EC0AF1A75F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE38FF7-7F4D-049E-E099-EC0AF1A75F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

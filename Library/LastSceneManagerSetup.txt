@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Slot_Machine_Unity.unity
+  isLoaded: 1
+  isActive: 1
