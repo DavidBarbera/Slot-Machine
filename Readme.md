@@ -104,5 +104,5 @@ Finally we wanted to print some text for when the player won. To do this we firs
 At the end of the project we had too many problems merging pull requests so we decided to start one of the pull requests as a separate project and work from that.
 
 Here is a link to our final game:
-![alt text](https://youtu.be/zxE8qqWVJq0 "Here is the video to our project")  
+![Here is the video to our project](https://youtu.be/zxE8qqWVJq0)  
 
