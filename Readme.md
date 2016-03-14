@@ -1,4 +1,4 @@
-#Slot Machine Assignment
+#Slot Machine Assignment   ![alt text](https://github.com/DavidBarbera/Slot-Machine/blob/master/report/SlotMachine.png)
 
 Rob Allen								 	Design Lead
 David Barbera									Technical Lead
