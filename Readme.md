@@ -1,4 +1,5 @@
-#Slot Machine Assignment   ![alt text](https://github.com/DavidBarbera/Slot-Machine/blob/master/report/SlotMachine.png)
+#Slot Machine Assignment   
+![alt text](https://github.com/DavidBarbera/Slot-Machine/blob/master/report/SlotMachine.png)
 
 Rob Allen								 	Design Lead
 David Barbera									Technical Lead
@@ -103,6 +104,6 @@ Finally we wanted to print some text for when the player won. To do this we firs
 
 At the end of the project we had too many problems merging pull requests so we decided to start one of the pull requests as a separate project and work from that.
 
-Here is a link to our final game:
-![Here is the video to our project](https://youtu.be/zxE8qqWVJq0)  
+####Here is a link to our final game:
+[Here is the video to our project](https://youtu.be/zxE8qqWVJq0)  
 
